@@ -1,1 +1,1 @@
-print('Hello Mano')
+printie('Hello Mano')
